@@ -1,5 +1,4 @@
-Chapter 7: Providing Resources and Support for Stress Reduction: Offering Mental Health Services and Programs
-=============================================================================================================
+# Offering Mental Health Services and Programs
 
 In this chapter, we will discuss the importance of offering mental health services and programs as part of a comprehensive approach to stress reduction in the workplace. By providing employees with access to mental health resources and support, organizations can promote employee well-being and reduce stress levels.
 

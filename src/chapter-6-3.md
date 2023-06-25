@@ -1,5 +1,4 @@
-Chapter 6: Addressing Workload and Time Management: Encouraging Breaks and Time Off
-===================================================================================
+# Encouraging Breaks and Time Off
 
 In this chapter, we will discuss the importance of addressing workload and time management to reduce employee stress levels in the workplace. By encouraging breaks and time off, organizations can help employees manage their workload effectively and achieve a healthier work-life balance.
 

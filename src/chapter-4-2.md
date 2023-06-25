@@ -1,5 +1,4 @@
-Chapter 4: Creating a Physical Stress-Reducing Environment: Incorporating Biophilic Design Elements
-===================================================================================================
+# Incorporating Biophilic Design Elements
 
 In this chapter, we will explore the use of biophilic design elements to create a physical stress-reducing environment in the workplace.
 

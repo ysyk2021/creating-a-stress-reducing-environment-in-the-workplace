@@ -1,5 +1,4 @@
-Chapter 4: Creating a Physical Stress-Reducing Environment: Enhancing Lighting and Air Quality
-==============================================================================================
+# Enhancing Lighting and Air Quality
 
 In this chapter, we will explore how to enhance lighting and air quality to create a physical stress-reducing environment in the workplace.
 

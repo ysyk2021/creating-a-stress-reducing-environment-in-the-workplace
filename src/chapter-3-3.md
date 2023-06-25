@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Role of Workplace Environment in Stress Reduction: Exploring the Impact of Workplace Design and Layout
-===================================================================================================================================
+# Exploring the Impact of Workplace Design and Layout
 
 In this chapter, we will explore the role of workplace environment in stress reduction, specifically the impact of workplace design and layout.
 

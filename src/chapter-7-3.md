@@ -1,5 +1,4 @@
-Chapter 7: Providing Resources and Support for Stress Reduction: Providing Access to Wellness Resources
-=======================================================================================================
+# Providing Access to Wellness Resources
 
 In this chapter, we will explore the importance of providing resources and support for stress reduction in the workplace, including access to wellness resources.
 

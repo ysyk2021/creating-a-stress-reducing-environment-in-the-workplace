@@ -1,5 +1,4 @@
-Chapter 2: Overview of Workplace Stress: The Impact of Workplace Stress on Employee Performance and Health
-==========================================================================================================
+# The Impact of Workplace Stress on Employee Performance and Health
 
 In this chapter, we will provide an overview of the impact of workplace stress on employee performance and health. Understanding the negative effects of workplace stress is crucial for developing effective strategies to reduce stress and promote employee well-being.
 
