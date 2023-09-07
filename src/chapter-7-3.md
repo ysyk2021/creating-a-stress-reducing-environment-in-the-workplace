@@ -1,4 +1,3 @@
-# Providing Access to Wellness Resources
 
 In today's fast-paced and demanding work environment, it is essential for organizations to prioritize the well-being of their employees. Recognizing the importance of creating a stress-reducing environment in the workplace, this chapter delves into the significance of providing access to wellness resources.
 

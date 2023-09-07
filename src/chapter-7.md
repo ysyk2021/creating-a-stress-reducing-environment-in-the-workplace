@@ -1,4 +1,3 @@
-# Chapter 7: Providing Resources and Support for Stress Reduction
 
 ## Techniques for Providing Resources and Support for Stress Reduction
 

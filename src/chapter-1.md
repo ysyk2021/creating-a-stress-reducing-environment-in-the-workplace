@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the concept of creating a stress-reducing environment in the workplace. We will define workplace stress and its negative impacts on employee health and productivity. Additionally, we will discuss the benefits and challenges of creating a stress-reducing environment and why understanding the role of workplace environment is critical for employee well-being.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 Creating a stress-reducing environment in the workplace is critical for promoting employee well-being and improving organizational performance. In the following chapters, we will explore techniques and strategies for creating a stress-reducing environment in the workplace and overcoming common causes of workplace stress. By prioritizing stress reduction in the workplace and understanding the role of workplace environment, organizations can create a workplace environment that promotes health, wellbeing, and success for all.
-
 

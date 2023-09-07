@@ -1,5 +1,3 @@
-Chapter 2: Overview of Workplace Stress
-=======================================
 
 In this chapter, we will provide an overview of workplace stress. We will discuss different perspectives and approaches to workplace stress, the impact of workplace stress on employee performance and health, and techniques for overcoming common causes of workplace stress.
 

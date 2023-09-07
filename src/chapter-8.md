@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Stress Reduction Effectiveness
-==================================================================
 
 In this chapter, we will explore techniques for measuring and evaluating stress reduction effectiveness in the workplace.
 

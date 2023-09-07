@@ -1,6 +1,3 @@
-# Offering Mental Health Services and Programs
-
-## Introduction
 
 In recent years, there has been a growing recognition of the importance of mental health in the workplace. Organizations are realizing that supporting the mental well-being of their employees not only enhances productivity but also promotes overall employee satisfaction and retention. As a result, offering mental health services and programs has become a key strategy for creating a stress-reducing environment in the workplace. This chapter will explore various approaches that organizations can adopt to provide effective mental health support to their employees.
 

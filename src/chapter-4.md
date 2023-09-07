@@ -1,5 +1,3 @@
-Chapter 4: Creating a Physical Stress-Reducing Environment
-==========================================================
 
 In this chapter, we will explore techniques for creating a physical stress-reducing environment in the workplace.
 

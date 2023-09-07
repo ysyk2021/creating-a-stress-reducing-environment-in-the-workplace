@@ -1,4 +1,4 @@
-# Introduction
+
 
 In today's fast-paced and demanding work environment, workplace stress has become a common problem for many employees. Excessive stress can have negative effects on both physical and mental health, leading to burnout, decreased productivity, and overall dissatisfaction in the workplace.
 
@@ -11,3 +11,7 @@ Whether you're an employee or an employer, this book will help you create a heal
 With a focus on creating a stress-free workplace culture and promoting work-life balance, "Creating a Stress-Reducing Environment in the Workplace" is the ultimate guide for anyone looking to improve their mental and physical health at work. By implementing the strategies outlined in this book, you'll be able to create a happier, healthier, and more productive work environment for yourself and your colleagues.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

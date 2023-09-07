@@ -1,4 +1,3 @@
-# Chapter 6: Addressing Workload and Time Management
 
 ## Techniques for Addressing Workload and Time Management
 
