@@ -1,5 +1,4 @@
-Chapter: Adapting to Changes in the Workplace
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Adaptability is a cornerstone of creating and maintaining a stress-reducing environment in the workplace. This chapter explores the importance of adaptability in the face of changes and provides strategies for successfully navigating transitions while preserving a stress-reducing atmosphere.
 

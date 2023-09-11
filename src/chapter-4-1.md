@@ -1,5 +1,4 @@
-Chapter: Techniques for Creating a Physical Stress-Reducing Environment
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced work culture, creating a stress-reducing environment in the workplace has become essential for the well-being and productivity of employees. One crucial aspect of this effort is designing a physical environment that promotes relaxation and minimizes stress triggers. This chapter will explore various techniques for establishing a physical stress-reducing environment in the workplace.
 

@@ -1,5 +1,4 @@
-Chapter: Enhancing Lighting and Air Quality
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The quality of lighting and air within a workplace significantly impacts the well-being and productivity of employees. This chapter delves into the importance of enhancing lighting and air quality to create a stress-reducing environment in the workplace.
 

@@ -1,5 +1,4 @@
-Chapter: Encouraging Recognition and Appreciation
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recognition and appreciation play a vital role in fostering a stress-reducing environment in the workplace. This chapter explores the importance of acknowledging employees' efforts and contributions and provides strategies for implementing effective recognition and appreciation programs.
 

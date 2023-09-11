@@ -1,5 +1,4 @@
-Chapter: Fostering Positive Interactions Among Employees
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Positive interactions among employees play a pivotal role in shaping a stress-reducing environment in the workplace. This chapter delves into the importance of fostering healthy relationships and provides strategies for promoting positive interactions among colleagues.
 

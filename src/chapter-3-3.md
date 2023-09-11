@@ -1,5 +1,4 @@
-Chapter: Exploring the Impact of Workplace Design and Layout
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The design and layout of a workplace have a profound impact on employee well-being, productivity, and stress levels. This chapter delves into the significance of workplace design and layout in creating a stress-reducing environment and provides insights into effective design strategies.
 

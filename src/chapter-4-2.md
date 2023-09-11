@@ -1,5 +1,4 @@
-Chapter: Incorporating Biophilic Design Elements
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Biophilic design, which involves integrating elements of nature into indoor spaces, has gained significant attention for its positive impact on reducing stress and enhancing well-being in the workplace. This chapter explores the concept of incorporating biophilic design elements to create a stress-reducing environment in the workplace.
 

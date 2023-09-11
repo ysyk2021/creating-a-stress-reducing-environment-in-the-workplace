@@ -1,5 +1,4 @@
-Chapter: The Impact of Workplace Stress on Employee Performance and Health
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the far-reaching consequences of workplace stress is crucial for creating a stress-reducing environment. This chapter explores how workplace stress can profoundly affect both employee performance and health.
 

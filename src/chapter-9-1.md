@@ -1,5 +1,4 @@
-Chapter: Techniques for Sustaining Stress Reduction Efforts
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Sustaining stress reduction efforts in the workplace is essential for long-term well-being and productivity. This chapter explores various techniques and strategies that organizations can employ to maintain a stress-reducing environment over time.
 

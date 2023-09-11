@@ -1,5 +1,4 @@
-Chapter: Different Perspectives and Approaches to Workplace Stress
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding workplace stress requires examining it from various angles and considering multiple approaches to address and mitigate its effects. This chapter delves into different perspectives on workplace stress and explores various strategies for addressing it.
 
